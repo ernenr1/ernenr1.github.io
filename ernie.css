@@ -80,8 +80,8 @@ body {
 	font-size: 20px;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	padding-left: 300px;
-	padding-right: 300px;
+	padding-left: 25%;
+	padding-right: 25%;
 }
 
 /* Resume Body */
@@ -108,3 +108,11 @@ body {
 	font-weight: bold;
 	margin: 0px;
 }
+/*josh
+.column{
+	margin: 0 auto;
+	display: block;
+	width: 80%;
+	font-size: 1em;
+	background-color: #ff4020;
+} */
