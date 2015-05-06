@@ -27,14 +27,15 @@ body {
 
 /* Index Page Body */
 .title p {
-	padding: 425px 600px;
-	padding-bottom: 0px;
+	padding-top: 31%;
+	padding-bottom: 0%;
+	padding-left: 45%;
 	font-size: 200px;
 	font-family: courier;
 	margin: 0px;
 }
 
-/* About Me Section Body */
+/* About Me Section Body 600px*/
 
 .about #c {
 	font-family: monospace;
