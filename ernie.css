@@ -108,6 +108,14 @@ body {
 	font-weight: bold;
 	margin: 0px;
 }
+a[href^="mailto:"]{
+	text-decoration: none;
+	color: #444;
+}
+a[href^="mailto:"]:hover{
+	text-decoration: none;
+	color: #bbb;
+}
 /*josh
 .column{
 	margin: 0 auto;
