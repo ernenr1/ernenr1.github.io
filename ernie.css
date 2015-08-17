@@ -8,7 +8,7 @@ body {
 #nav a {
 	color: #5a5a5a;
 	font-family: helvetica;
-	font-size: 1.563em;
+	font-size: 1.6em;
 	list-style-type: none;
 	text-decoration: none;
 	text-transform: lowercase;
@@ -21,19 +21,19 @@ body {
 
 #nav{
 	position: fixed;
-	padding: 30px 60px;
+	padding: 2em 4em;
 	margin: 0;
 }
 
 /* Index Page Body */
 .title p {
-	padding-top: 31%;
-	padding-bottom: 0%;
-	padding-right: 20%;
-	padding-left: 45%;
-	font-size: 200px;
+	padding-top: 2.3em;
+	/*padding-bottom: 0em;*/
+	/*padding-right: 20%;*/
+	padding-left: 3.3em;
+	font-size: 12em;
 	font-family: courier;
-	margin: 0px;
+	margin: 0;
 }
 
 /* About Me Section Body 600px*/
