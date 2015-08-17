@@ -81,8 +81,6 @@ body {
 .about #int {
 	font-family: helvetica;
 	font-size: 20px;
-	margin-top: 10px;
-	margin-bottom: 10px;
 	padding-left: 25%;
 	padding-right: 25%;
 }
@@ -111,6 +109,7 @@ body {
 	font-weight: bold;
 	margin: 0px;
 }
+
 a[href^="mailto:"]{
 	text-decoration: none;
 	color: #444;
