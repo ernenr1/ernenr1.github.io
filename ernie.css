@@ -8,7 +8,7 @@ body {
 #nav a {
 	color: #5a5a5a;
 	font-family: helvetica;
-	font-size: 25px;
+	font-size: 1.563em;
 	list-style-type: none;
 	text-decoration: none;
 	text-transform: lowercase;
