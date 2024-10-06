@@ -40,6 +40,9 @@ hr {
 .window-body {
   font-size: 15px;
 }
+.prof-pic {
+  margin-left: 50px;
+}
 
 aside {
   width: 300px;
